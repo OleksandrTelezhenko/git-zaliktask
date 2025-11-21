@@ -7,7 +7,7 @@
         branches:
             -main
 
-jobs:
+  jobs:
     check:
         runs-on: ubuntu-latest
         steps:
